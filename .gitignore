@@ -1,3 +1,5 @@
 trial_server/target
 port_sniffer/target
 snake_game/target
+chat_cli_server/client/target/
+chat_cli_server/server/target/
